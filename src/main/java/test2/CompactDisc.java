@@ -1,0 +1,1 @@
+package test2;/** * @Author: georgexie * @description: 高阶用法示例 * @Date: 2020/7/29 13:38 * @Version 1.0 */public interface CompactDisc {    void play();    void play(int songNumber);}
